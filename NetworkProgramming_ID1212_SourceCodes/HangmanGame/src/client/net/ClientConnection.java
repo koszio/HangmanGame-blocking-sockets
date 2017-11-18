@@ -15,6 +15,7 @@ import java.util.Scanner;
 
 /**
  *
+ * @author koszio
  * @author aristotelis
  */
 public class ClientConnection {
