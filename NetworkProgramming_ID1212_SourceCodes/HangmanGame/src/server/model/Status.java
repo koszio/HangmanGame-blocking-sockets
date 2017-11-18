@@ -6,7 +6,7 @@
 package server.model;
 
 /**
- *
+ * @author koszio
  * @author aristotelis
  */
 public class Status {
