@@ -14,6 +14,7 @@ import server.model.Model;
 /**
  *
  * @author aristotelis
+ * @author koszio
  */
 public class ServerConnection {
 
