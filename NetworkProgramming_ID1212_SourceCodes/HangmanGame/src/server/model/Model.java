@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- *
+   @author koszio
  * @author aristotelis
  */
 public class Model {

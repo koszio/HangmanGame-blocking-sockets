@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.Socket;
 /**
- *
+ * @author koszio
  * @author aristotelis
  */
 public class CoolThread extends Thread{

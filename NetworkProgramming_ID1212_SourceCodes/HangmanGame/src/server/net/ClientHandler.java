@@ -19,6 +19,7 @@ import server.controller.Controller;
 /**
  *
  * @author aristotelis
+ * @author koszio
  */
 public class ClientHandler implements Runnable {
 
