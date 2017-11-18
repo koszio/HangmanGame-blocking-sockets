@@ -9,7 +9,7 @@ import java.io.IOException;
 import server.model.Model;
 import server.model.Status;
 /**
- *
+ * @author koszio
  * @author aristotelis
  * @author koszio
  */

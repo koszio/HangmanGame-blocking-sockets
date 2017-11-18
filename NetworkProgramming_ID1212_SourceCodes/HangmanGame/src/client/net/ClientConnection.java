@@ -14,7 +14,6 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
- *
  * @author koszio
  * @author aristotelis
  */

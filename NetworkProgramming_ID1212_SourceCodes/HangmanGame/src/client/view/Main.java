@@ -8,7 +8,7 @@ package client.view;
 import client.net.ClientConnection;
 import java.io.IOException;
 /**
- *
+ * @author koszio
  * @author aristotelis
  * @author koszio
  */
