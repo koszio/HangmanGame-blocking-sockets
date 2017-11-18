@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 import server.controller.Controller;
 
 /**
- *
+ * @author koszio
  * @author aristotelis
  * @author koszio
  */

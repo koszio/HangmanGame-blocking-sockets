@@ -14,6 +14,7 @@ import java.util.ArrayList;
 /**
    @author koszio
  * @author aristotelis
+ * @author koszio
  */
 public class Model {
     
