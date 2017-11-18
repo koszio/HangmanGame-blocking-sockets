@@ -10,6 +10,7 @@ import java.io.IOException;
 /**
  *
  * @author aristotelis
+ * @author koszio
  */
 public class Main {
 
