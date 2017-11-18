@@ -11,6 +11,7 @@ import server.model.Status;
 /**
  *
  * @author aristotelis
+ * @author koszio
  */
 public class Controller {
     
