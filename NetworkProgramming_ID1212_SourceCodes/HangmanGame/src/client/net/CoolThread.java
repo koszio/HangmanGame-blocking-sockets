@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 /**
  *
- * @author aristotelis
+ * @author koszio
  */
 public class CoolThread extends Thread{
 
